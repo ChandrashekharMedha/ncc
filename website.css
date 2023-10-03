@@ -1,0 +1,14 @@
+h1 {
+  color:white;
+  text-align: center;
+  background-color:red;
+  shape-image-threshold: inherit;
+}
+
+.center {display:block;margin-left: auto;margin-right: auto;width: 580px;}
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
